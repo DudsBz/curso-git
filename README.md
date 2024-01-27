@@ -4,6 +4,7 @@
 
  ## Subtítulo do README.md
 
- -Sei la
- -Sei la também
- -E sei la de novo
+ - Sei la
+ - Sei la também
+ - E sei la de novo
+ 
